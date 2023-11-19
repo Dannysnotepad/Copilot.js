@@ -1,0 +1,12 @@
+[
+  {
+    "userEmail": "your email here",
+    "userName": "your username here",
+    "path": "path/to/project/location",
+    "githubLink": "https://[]@github.com/",
+    "accessToken": "your git access token here",
+    "nameOfRepository": "name of repository you want to puah to here",
+    "branch": "main",
+    "commitMessage": "initial commit"
+  }
+]
